@@ -1,16 +1,22 @@
-:closed_lock_with_key: ProbeX – Python Security Toolkit
+# ProbeX
+
+
+#  :closed_lock_with_key: ProbeX – Python Security Toolkit
+
 
 ProbeX is a dual-module Python toolkit designed for authorized penetration testing and network reconnaissance.
 
 It combines:
 
-:globe_with_meridians: A TCP Port Scanner
 
-:syringe: A SQL Injection Tester
+### :globe_with_meridians: A TCP Port Scanner
 
-:rocket: Features
+### :syringe: A SQL Injection Tester
 
-:mag_right: Port Scanner
+### :rocket: Features
+
+
+#### :mag_right: Port Scanner
 
 Scans TCP ports on a target host
 
@@ -22,7 +28,8 @@ Supports custom port ranges
 
 Built using Python socket
 
-:syringe: SQL Injection Tester
+
+#### :syringe: SQL Injection Tester
 
 Detects SQLi vulnerabilities in web forms
 
@@ -191,4 +198,4 @@ If you want, I can:
 - :contentReference[oaicite:2]{index=2}
 
 Just tell me 👍
-# ProbeX
+
